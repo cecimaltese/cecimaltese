@@ -98,17 +98,4 @@ Travel and cultural exploration (30+ countries, including a round-the-world trip
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cecimaltese&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecimaltese&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cecimaltese&hide_border=true" alt="Streak" height="165">
-</p>
-
----
-
 <p align="center"><i>Building things that move. 🤖</i></p>
