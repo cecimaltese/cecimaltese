@@ -20,8 +20,7 @@ I like the part of engineering where software meets something physical: a robot 
 🔭 **Right now**
 
 - Training an 8-DOF bipedal robot (**Dodo**) to walk and backflip in NVIDIA IsaacLab at **TUM MIRMI**, aiming at sim-to-real
-- Commissioning and validating battery storage systems (Modbus TCP, EMS integration, data plausibility) at **Entrix**
-- Looking for a robotics **Forschungspraxis** topic for WS 26/27, ideally locomotion, exoskeletons, or space robotics
+- Commissioning and validating battery storage systems (Modbus TCP, EMS integration, data plausibility) at **EBX**
 
 ---
 
@@ -45,7 +44,8 @@ I like the part of engineering where software meets something physical: a robot 
 | Hardware Ops Dashboard | Firebase, Firestore, vanilla JS | Internal tool for hardware logistics: orders, shipments, delivery notes, real-time sync |
 | ASMS Alarm Chatbot | Vite, Firebase Functions, Anthropic API | Answers questions over 62 alarm definitions for a BESS monitoring platform |
 | Modbus config converter | Zero-dependency HTML | Turns Modbus ASCII configs into dataflow JSON so nobody has to hand-edit registers |
-| WG app | Single-file HTML, Firestore | Dinner check-in, calendar, pin board and photo gallery for my 7 flatmates |
+| PeakExpress app | HTML, Firestore | Ski-touring and hiking database from personal experience and books to go express from Munich |
+| WG app | HTML, Firestore | Dinner check-in, calendar, pin board and photo gallery for my 7 flatmates |
 
 ---
 
@@ -53,10 +53,8 @@ I like the part of engineering where software meets something physical: a robot 
 
 | Period | Role | Where | What |
 |--------|------|-------|------|
-| 2026 - now | Working Student, Tech &amp; Operations | **EBX**, Munich 🇩🇪 | Configure and commission hardware for BESS customer installations. Validate energy data streams (network
-checks, plausibility analysis). Design and develop internal web infrastructure (front-end and back-end) to automate operational workflows. |
-| 2026 | Working Student, Tech &amp; Operations | **Entrix**, Munich 🇩🇪 | Technical onboarding of BESS customer installations and energy data validation. Continued at EBX Technologies
-GmbH from April 2026. |
+| 2026 - now | Working Student, Tech &amp; Operations | **EBX**, Munich 🇩🇪 | Configure and commission hardware for BESS customer installations. Validate energy data streams (network checks, plausibility analysis). Design and develop internal web infrastructure (front-end and back-end) to automate operational workflows. |
+| 2026 | Working Student, Tech &amp; Operations | **Entrix**, Munich 🇩🇪 | Technical onboarding of BESS customer installations and energy data validation. Continued at EBX Technologies GmbH from April 2026. |
 | 2025 | Intern, Mechatronics | **OHB Italia**, Milan 🇮🇹 | Lunar regolith excavation, manipulation and transport system. System architecture, simulation verification, multibody simulation of a linear positioning stage in ADAMS, test setups and functional checks. |
 | 2024 | Intern, Ground Segment &amp; Mission Management | **ESA ESRIN**, Frascati 🇮🇹 | DestinE project: AI, LLMs and satellite data. Full-stack web app (Flask + JS), knowledge graphs in Python, interactive satellite data map. Case studies on Villa Adriana, the Sirente crater and Mt. Vesuvius. |
 
@@ -74,8 +72,7 @@ GmbH from April 2026. |
 ---
 
 ## 🧰 Skills
-
-🟣 daily driver · 🔵 solid · 🟢 working knowledge · ⚪ have used it
+*🟣 daily driver · 🔵 solid · 🟢 working knowledge · ⚪ have used it*
 
 **Languages &amp; frameworks**
 
