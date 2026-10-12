@@ -53,7 +53,10 @@ I like the part of engineering where software meets something physical: a robot 
 
 | Period | Role | Where | What |
 |--------|------|-------|------|
-| 2026 - now | Working Student, Tech &amp; Operations | **Entrix**, Munich 🇩🇪 | Configure and commission hardware for battery storage installations. Technical onboarding with customers, network checks and data plausibility analysis, internal full-stack web tooling to automate operations. |
+| 2026 - now | Working Student, Tech &amp; Operations | **EBX**, Munich 🇩🇪 | Configure and commission hardware for BESS customer installations. Validate energy data streams (network
+checks, plausibility analysis). Design and develop internal web infrastructure (front-end and back-end) to automate operational workflows. |
+| 2026 | Working Student, Tech &amp; Operations | **Entrix**, Munich 🇩🇪 | Technical onboarding of BESS customer installations and energy data validation. Continued at EBX Technologies
+GmbH from April 2026. |
 | 2025 | Intern, Mechatronics | **OHB Italia**, Milan 🇮🇹 | Lunar regolith excavation, manipulation and transport system. System architecture, simulation verification, multibody simulation of a linear positioning stage in ADAMS, test setups and functional checks. |
 | 2024 | Intern, Ground Segment &amp; Mission Management | **ESA ESRIN**, Frascati 🇮🇹 | DestinE project: AI, LLMs and satellite data. Full-stack web app (Flask + JS), knowledge graphs in Python, interactive satellite data map. Case studies on Villa Adriana, the Sirente crater and Mt. Vesuvius. |
 
